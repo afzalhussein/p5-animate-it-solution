@@ -1,7 +1,7 @@
 let width=600;
 let height=400;
 let blueLeft=0;
-let direction=0;
+let direction=0; // 0=left, 1=right
 function setup() {
      // https://p5js.org/reference/#/p5/createCanvas
      // (width, height) of canvas
